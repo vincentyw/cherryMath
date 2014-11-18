@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="function_array">
+        <item>加减</item>
+        <item>乘法</item>
+        <item>除法</item>
+        <item>混合</item>
+    </string-array>
+
+    <string-array name="mode_array">
+        <item>练习</item>
+        <item>测试</item>
+    </string-array>
+
+    <string-array name="range_array">
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="amount_array">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>50</item>
+    </string-array>
+</resources>

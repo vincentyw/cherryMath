@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">樱桃算术</string>
+    <string name="str01">樱桃口算练习</string>
+    <string name="str02">开始</string>
+    <string name="str03">清空</string>
+    <string name="str04">取数范围</string>
+    <string name="str05">题目数量</string>
+    <string name="str06">题目类型</string>
+    <string name="str07">错误提示</string>      
+    <string name="str08">当次统计</string>    
+    <string name="str09">历史统计</string>
+    <string name="str10">清空数据</string>
+    <string name="str11">显示错题</string>    
+    <string name="str12">总计完成数量:</string>  
+    <string name="str13">道题;</string>  
+    <string name="str14">正确数量:</string>      
+    <string name="str15">总共耗时:</string> 
+    <string name="str16">秒</string>
+    <string name="str17">正确答案:</string>
+    <string name="str18">当前题号:</string>
+    <string name="str19">题目总数:</string>
+    <string name="str20">退出提示</string>
+    <string name="str21">确定退出吗？</string>
+    <string name="str22">是</string>
+    <string name="str23">否</string>
+    <string name="str24">樱桃口算练习软件</string>
+    <string name="str25">版本1.0 By vince77@163.com</string>
+    <string name="str26">关于</string>
+    <string name="str27">确定</string>
+    <string name="str28">本次完成数量:</string> 
+    <string name="str29">练习总结</string> 
+    <string name="str_plus">+</string>
+    <string name="str_minus">-</string>
+    <string name="str_multi">×</string>
+    <string name="str_devide">÷</string>
+    <string name="action_settings">设置</string>
+    
+</resources>

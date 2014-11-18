@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CherryMath</string>
+    <string name="str01">Cherry Oral Arithmetic</string>
+    <string name="str02">Start</string>
+    <string name="str03">Clear</string>
+    <string name="str04">Range</string>
+    <string name="str05">Amount</string>
+    <string name="str06">Type</string>
+    <string name="str07">Error Hint</string>      
+    <string name="str08">Current Stats</string>    
+    <string name="str09">History Stats</string>
+    <string name="str10">Clear History</string>
+    <string name="str11">Display Wrong</string>    
+    <string name="str12">Total Completed:</string>  
+    <string name="str13">Items;</string>  
+    <string name="str14">Correct Amount:</string>      
+    <string name="str15">Total Time:</string> 
+    <string name="str16">Seconds</string>
+    <string name="str17">Correct:</string>
+    <string name="str18">Current No.:</string>
+    <string name="str19">Total Amount:</string>
+    <string name="str20">Exit Hint</string>
+    <string name="str21">Do you decide to quit?</string>
+    <string name="str22">Yes</string>
+    <string name="str23">No</string>
+    <string name="str24">Cherry Oral Arithmetic Software</string>
+    <string name="str25">Version 1.0 By vince77@163.com</string>
+    <string name="str26">Anount</string>
+    <string name="str27">Confirm</string>
+    <string name="str28">Completed This time:</string> 
+    <string name="str29">Summary</string> 
+    <string name="str_plus">+</string>
+    <string name="str_minus">-</string>
+    <string name="str_multi">×</string>
+    <string name="str_devide">÷</string>
+    <string name="action_settings">settings</string>
+</resources>
